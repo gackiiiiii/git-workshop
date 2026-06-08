@@ -2,3 +2,6 @@
 
 ## Opis projektu
 To jest mój pierwszy projekt Git
+
+## Autor
+Michał
